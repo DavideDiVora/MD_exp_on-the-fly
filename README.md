@@ -1,6 +1,6 @@
 # MD refinement on-the-fly
 **Integrating experimental data and molecular dynamics (MD) simulations on-the-fly.**
-This repository contains the code and datasets developed for my MSc thesis, focused on the integration of experimental data into molecular dynamics (MD) simulations.  
+This repository contains the code and datasets developed for my MSc thesis, focused on the integration of experimental data into molecular dynamics (MD) simulations. 
 The main goal is to modify **on-the-fly** the ensemble, the forward model, and the force field in order to make MD simulations more consistent with experimental observations.
 
 ---
@@ -32,8 +32,7 @@ collections
 
 ---
 ## 📚 Scientific context
-In the literature, the refinement of molecular dynamics (MD) trajectories is typically performed **a posteriori**, that is, on trajectories that have already been generated.  
-Several methods have been developed to refine the **ensemble**, the **force field**, and the **forward model** simultaneously in a post-processing step.  
+In the literature, the refinement of molecular dynamics (MD) trajectories is typically performed **a posteriori**, that is, on trajectories that have already been generated. Several methods have been developed to refine the **ensemble**, the **force field**, and the **forward model** simultaneously in a post-processing step.  
 
 The aim of this work is to build upon these theoretical foundations and implement a strategy that performs the **simultaneous refinement of ensemble, force field, and forward model on-the-fly**, during the course of the simulation itself.
 
