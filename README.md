@@ -53,9 +53,14 @@ The aim of this work is to build upon these theoretical foundations and implemen
   *The Journal of Chemical Physics*, 158(21). AIP Publishing.  
   [https://doi.org/10.1063/5.0151163](https://doi.org/10.1063/5.0151163)
 
-- Cesari A., and Reißer S. and Bussi, G. (2018)
-  **Using the Maximum Entropy Principle to Combine Simulations and Solution Experiments**.
-  *Computation*, 18.
+- Cesari A., and Reißer S. and Bussi, G. (2018)  
+  **Using the Maximum Entropy Principle to Combine Simulations and Solution Experiments**.  
+  *Computation*, 18.  
   [https://doi.org/10.3390/computation6010015](https://doi.org/10.3390/computation6010015)
+
+- Cesari A., Gil-Ley A. and Bussi, G. (2016)  
+  **Combining Simulations and Solution Experiments as a Paradigm for RNA Force Field Refinement**
+  *Journal of Chemical Theory and Computation*, 12(12). AIP Publishing.  
+  [https://doi.org/10.1021/ct501030x](https://doi.org/10.1021/ct501030x)
 
   
