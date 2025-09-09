@@ -54,8 +54,8 @@ The aim of this work is to build upon these theoretical foundations and implemen
   [https://doi.org/10.1063/5.0151163](https://doi.org/10.1063/5.0151163)
 
 - Cesari A., and Reißer S. and Bussi, G. (2018)
-  **Using the Maximum Entropy Principle to Combine Simulations and Solution Experiments**
-  *Computation*, 18
+  **Using the Maximum Entropy Principle to Combine Simulations and Solution Experiments**.
+  *Computation*, 18.
   [https://doi.org/10.3390/computation6010015](https://doi.org/10.3390/computation6010015)
 
   
