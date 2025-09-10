@@ -13,6 +13,15 @@ The main goal is to modify **on-the-fly** the ensemble, the forward model, and t
 
 ---
 
+## 🧪 Simple polymer model
+To simulate the polymer, we adopted a coarse–grained approach where monomers interact through a combination of **Lennard–Jones (LJ)** and **Finitely Extensible Nonlinear Elastic (FENE)** potentials.  
+
+To generate synthetic reference data, we introduced an additional **angular potential** that enforces straight conformations of the chain.  
+
+As experimental observable, we considered the **small-angle X-ray scattering (SAXS) intensity**, computed from the simulated configurations.
+
+---
+
 ## 📦 Dependencies
 
 All notebooks require the following Python libraries:
